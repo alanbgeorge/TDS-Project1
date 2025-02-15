@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-dotenv
+requests
+python-multipart
+prettier
+python-dateutil
+sqlalchemy
+pillow
+openai
+faker
+datetime
+scipy
+httpx
